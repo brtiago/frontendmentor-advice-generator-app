@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution](https://github.com/brtiago/frontendmentor-advice-generator-app)
+- Live Site URL: [Vercel](https://frontendmentor-advice-generator-app-silk.vercel.app/)
 
 ## My process
 
